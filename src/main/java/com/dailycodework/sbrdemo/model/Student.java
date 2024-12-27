@@ -10,9 +10,7 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import org.hibernate.annotations.NaturalId;
 
-/**
- * @author Simpson Alfred
- */
+
 @Entity
 @Setter
 @Getter
